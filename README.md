@@ -1,5 +1,7 @@
 # Rollup Plugin for Leaflet
 
+Resolves leaflet with the es-module build wich doesn't expose L on window.
+
 ## Install
 
 1. Run
